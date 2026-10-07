@@ -3,4 +3,4 @@
 
 `lettered.py` - lecture 2 homework
 
-<sub>by The Regina and Sasha, 132504</sub>
+<sub>by The Regina, 132504</sub>
